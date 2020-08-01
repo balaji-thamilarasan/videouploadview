@@ -1,0 +1,10 @@
+c:\users\balaji\documents\visual studio 2010\Projects\VideoUploadRetrive\VideoUploadRetrive\bin\VideoUploadRetrive.dll
+c:\users\balaji\documents\visual studio 2010\Projects\VideoUploadRetrive\VideoUploadRetrive\bin\VideoUploadRetrive.pdb
+c:\users\balaji\documents\visual studio 2010\Projects\VideoUploadRetrive\VideoUploadRetrive\obj\Debug\VideoUploadRetrive.dll
+c:\users\balaji\documents\visual studio 2010\Projects\VideoUploadRetrive\VideoUploadRetrive\obj\Debug\VideoUploadRetrive.pdb
+C:\Users\Balaji\documents\visual studio 2010\Projects\VideoUploadRetrive\VideoUploadRetrive\obj\Debug\VideoUploadRetrive.csprojResolveAssemblyReference.cache
+D:\Web Development\Projects\Video Upload\VideoUploadRetrive\VideoUploadRetrive\bin\VideoUploadRetrive.dll
+D:\Web Development\Projects\Video Upload\VideoUploadRetrive\VideoUploadRetrive\bin\VideoUploadRetrive.pdb
+D:\Web Development\Projects\Video Upload\VideoUploadRetrive\VideoUploadRetrive\obj\Debug\VideoUploadRetrive.csprojResolveAssemblyReference.cache
+D:\Web Development\Projects\Video Upload\VideoUploadRetrive\VideoUploadRetrive\obj\Debug\VideoUploadRetrive.dll
+D:\Web Development\Projects\Video Upload\VideoUploadRetrive\VideoUploadRetrive\obj\Debug\VideoUploadRetrive.pdb
